@@ -1,0 +1,9 @@
+Navbar
+Footer
+indexList
+	Heading
+	List
+SingleVote
+	submitForm
+	shareButton
+	statusPie
